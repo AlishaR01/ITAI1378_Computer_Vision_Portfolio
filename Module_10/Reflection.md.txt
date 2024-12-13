@@ -1,0 +1,5 @@
+Module 10 Reflection
+
+In Module 10, I explored Generative Adversarial Networks (GANs) and their ability to create realistic synthetic data. I learned about the adversarial interaction between the generator and discriminator and how this improves the quality of generated outputs.
+
+A key takeaway was understanding the potential of GANs for applications like image generation, style transfer, and data augmentation. This knowledge broadened my perspective on generative models.

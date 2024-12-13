@@ -1,0 +1,5 @@
+Module 11 Reflection
+
+In Module 11, I learned about the integration of computer vision models into real-world applications. This module emphasized the importance of deployment pipelines, handling varied data inputs, and evaluating models using metrics like precision, recall, and F1-score.
+
+A key takeaway was understanding the challenges of transitioning models from controlled environments to real-world scenarios and how to address these through rigorous evaluation and iteration.

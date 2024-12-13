@@ -1,0 +1,5 @@
+Final Project Reflection
+
+The final project was an opportunity to bring together the concepts and skills I learned throughout the course. I applied techniques like CNNs, transfer learning, and data augmentation to improve the performance of an object detection model.
+
+A key takeaway was understanding the importance of iterative testing and optimization in building effective computer vision solutions. This project consolidated my learning and demonstrated how to approach complex tasks systematically and professionally.

@@ -1,0 +1,5 @@
+Module 07 Reflection
+
+In Module 07, I explored transfer learning, an advanced technique that leverages pre-trained models to solve new computer vision tasks efficiently. I learned about the importance of freezing layers in pre-trained models to retain valuable feature extraction capabilities while adapting the final layers.
+
+A key takeaway was recognizing how transfer learning accelerates the development of high-performing models by utilizing existing architectures. This technique is invaluable for tackling complex projects with limited resources.

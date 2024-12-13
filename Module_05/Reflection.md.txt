@@ -1,0 +1,5 @@
+Module 05 Reflection
+
+In Module 05, I explored convolutional neural networks (CNNs), which are a cornerstone of modern computer vision. I learned how CNNs use convolutional layers to extract spatial features from images, enabling the model to detect patterns like edges, shapes, and textures.
+
+A key takeaway was recognizing how CNNs automate the feature extraction process, making them highly effective for tasks like object recognition and image classification. This understanding is foundational for building more advanced models.

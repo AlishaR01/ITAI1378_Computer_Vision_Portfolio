@@ -1,0 +1,5 @@
+Module 09 Reflection
+
+In Module 09, I focused on advanced optimization techniques for improving model performance. I learned about learning rate schedules, batch normalization, and regularization methods like dropout and early stopping to enhance training stability.
+
+A key takeaway was recognizing how these techniques improve model accuracy and robustness, ensuring better generalization to unseen data.

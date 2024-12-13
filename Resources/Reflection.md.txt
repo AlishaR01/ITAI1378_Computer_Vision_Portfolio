@@ -1,0 +1,7 @@
+This folder contains supplementary materials that supported my learning throughout the course. It includes:
+
+Articles: Key readings that deepened my understanding of computer vision concepts.
+Videos: Tutorials and lectures providing visual explanations of complex topics.
+Images: Examples and datasets used in assignments and projects.
+
+These resources were essential for expanding my knowledge and applying concepts to real-world scenarios.

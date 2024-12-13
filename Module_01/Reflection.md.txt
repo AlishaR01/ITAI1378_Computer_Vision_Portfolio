@@ -1,0 +1,5 @@
+Module 01 Reflection
+
+In Module 01, I was introduced to the foundational concepts of computer vision and its applications. This module helped me understand the importance of preprocessing data and preparing images for analysis. Through the lab, I practiced using basic image manipulation techniques, such as resizing and color conversion, to ensure data consistency.
+
+A key takeaway from this module was the importance of ensuring clean and well-structured datasets to achieve accurate results in downstream tasks. This knowledge has laid the groundwork for more advanced topics in the course.

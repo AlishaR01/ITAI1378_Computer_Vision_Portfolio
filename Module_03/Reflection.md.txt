@@ -1,0 +1,5 @@
+Module 03 Reflection
+
+In Module 03, I delved into the concept of feature detection and its significance in computer vision. I learned about keypoint detection techniques like Harris Corner Detection and SIFT, which are essential for identifying unique and invariant features in images.
+
+A major takeaway from this module was understanding how feature detection and extraction enable computers to interpret visual information in a way that mimics human perception. This knowledge is foundational for implementing object detection and recognition tasks.

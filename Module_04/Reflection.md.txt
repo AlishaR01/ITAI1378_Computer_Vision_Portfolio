@@ -1,0 +1,5 @@
+Module 04 Reflection
+
+In Module 04, I focused on image classification and the foundational concepts behind training machine learning models for computer vision tasks. This module introduced me to supervised learning, where labeled datasets are used to train models to classify images into specific categories.
+
+A key takeaway was understanding how neural networks process image data and the role of activation and loss functions in enabling models to learn. This module solidified my understanding of classification models.

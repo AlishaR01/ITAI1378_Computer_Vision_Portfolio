@@ -1,0 +1,6 @@
+Module 08 Reflection
+
+In Module 08, I focused on object detection, a vital application of computer vision. I learned about algorithms such as YOLO and Faster R-CNN, which identify and locate multiple objects within an image using bounding boxes.
+
+A major takeaway was understanding how object detection combines classification with localization, making it an essential component of real-world computer vision systems.
+

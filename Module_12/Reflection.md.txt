@@ -1,0 +1,5 @@
+Module 12 Reflection
+
+In Module 12, I explored the ethical considerations and societal impacts of artificial intelligence in computer vision. I learned about issues like bias, fairness, privacy, and accountability, especially in applications like facial recognition and surveillance.
+
+A major takeaway was recognizing the responsibility of developers to address these challenges and ensure AI systems are used equitably and ethically.

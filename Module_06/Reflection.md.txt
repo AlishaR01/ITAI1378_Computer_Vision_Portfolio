@@ -1,0 +1,5 @@
+Module 06 Reflection
+
+In Module 06, I learned about data augmentation and its role in improving the performance and robustness of computer vision models. Techniques like flipping, rotation, scaling, and adding noise help expand the diversity of training datasets.
+
+A key takeaway was understanding the importance of preparing diverse datasets to ensure the model performs well on real-world data. This knowledge will be useful for future projects involving large-scale image classification.

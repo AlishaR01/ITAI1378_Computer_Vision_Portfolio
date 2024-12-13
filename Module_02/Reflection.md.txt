@@ -1,0 +1,5 @@
+Module 02 Reflection
+
+In Module 02, I focused on understanding the theoretical foundations of image representation and processing. This included how pixel values encode information and how resolution and color channels impact the quality and usability of images.
+
+I explored the importance of preprocessing techniques such as scaling and normalization, which are critical for ensuring consistency and improving the performance of computer vision models. A key takeaway was how these techniques prepare data for accurate and efficient analysis in computer vision tasks.
